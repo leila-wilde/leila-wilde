@@ -19,12 +19,23 @@ After years of exploring technology, cybersecurity, and FOSS as personal passion
 
 ## 🚀 skills & technologies
 
+  <!-- Tools & OS -->
+  
+  
+  
+  
+  
+  
+
+  <!-- Other Badges -->
+
+
 | Category | Technologies |
 |----------|--------------|
-| **Programming Languages** | Python, C, C++, C#, Java (OOP) |
-| **Databases** | SQL (PostgreSQL, MySQL) |
-| **Web Basics** | HTML, CSS, JavaScript |
-| **Tools & OS** | Git, GitHub, Linux (Debian, Ubuntu, Arch) |
+| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">, <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">, <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">, <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">, <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> |
+| **Web Basics** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">, <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> |
+| **Tools & OS** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">, <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">, <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"> |
 | **Design** | software design principles, design patterns, UML, ERD |
 | **Testing & Quality** | unit, integration, and e2e testing, documentation, Jira |
 | **Additional Skills** | hardware/software troubleshooting, online security & privacy workshops |
@@ -38,10 +49,16 @@ After years of exploring technology, cybersecurity, and FOSS as personal passion
 - 🌐 language learning
 - 🚲 travel & cycling
 
-## 📫 How to reach me
+## 📫 how to reach me
 
-- **email:** leila.wilde@laplateforme.io
-- **LinkedIn**: [Leila Wilde](https://linkedin.com/in/leila-wilde)
+<div align="center">
+  <a href="https://linkedin.com/in/leila-wilde">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:leila.wilde@laplateforme.io">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -78,10 +95,10 @@ Après des années à explorer la technologie, la cybersécurité et le FOSS com
 
 | Catégorie | Technologies |
 |----------|--------------|
-| **Langages de programmation** | Python, C, C++, C#, Java (POO) |
-| **Bases de données** | SQL (PostgreSQL, MySQL) |
-| **Bases du Web** | HTML, CSS, JavaScript |
-| **Outils & OS** | Git, GitHub, Linux (Debian, Ubuntu, Arch) |
+| **Langages de programmation** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">, <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">, <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">, <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> |
+| **Bases de données** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">, <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> |
+| **Bases du Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">, <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> |
+| **Outils & OS** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">, <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">, <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"> |
 | **Conception** | principes de conception logicielle, design patterns, UML, ERD |
 | **Tests & Qualité** | tests unitaires, d'intégration et e2e, documentation, Jira |
 | **Compétences annexes** | dépannage matériel/logiciel, ateliers sécurité & vie privée en ligne |
@@ -96,8 +113,14 @@ Après des années à explorer la technologie, la cybersécurité et le FOSS com
 
 ## 📫 comment me contacter
 
-- **email:** leila.wilde@laplateforme.io
-- **LinkedIn**: [Leila Wilde](https://linkedin.com/in/leila-wilde)
+<div align="center">
+  <a href="https://linkedin.com/in/leila-wilde">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:leila.wilde@laplateforme.io">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
